@@ -5,7 +5,7 @@ import { ActiveTaskCard } from './ActiveTaskComponents/ActiveTaskCard';
 const CardsWrapper = styled.div`
   width: 100%;
   height: 90px;
-  padding: 15px 34px;
+  padding: 15px 30px;
   display: flex;
   border-bottom: 1px solid rgba(139, 144, 166, 0.2);
 `;
